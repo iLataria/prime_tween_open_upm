@@ -1,6 +1,6 @@
 {
 	"name": "com.elito.primetween",
-	"version": "1.0.0",
+	"version": "1.3.3",
 	"displayName": "Prime Tween",
 	"description": "",
 	"unity": "2019.4",
@@ -8,9 +8,7 @@
 	"documentationUrl": "",
 	"changelogUrl": "",
 	"dependencies": {
-
 	},
-
 	"author": {
 		"name": "KyryloKuzyk",
 		"email": "lataria.dev@gmail.com"
