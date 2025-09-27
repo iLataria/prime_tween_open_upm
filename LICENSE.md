@@ -1,21 +1,12 @@
-MIT License
+It's **allowed**:
+- Use PrimeTween and modify its source code in **free and commercial** products distributed in binary format (apps and games).
+- Use PrimeTween in derivative (free and commercial) projects (templates, libraries, GitHub projects) that depend on PrimeTween, but only if PrimeTween is installed as an [**NPM package**](https://github.com/KyryloKuzyk/PrimeTween#install-via-unity-package-manager-upm).
 
-Copyright (c) 2025 Ilia Lataria
+It's **not allowed**:
+- Distribute PrimeTween's source code and tarball (.tgz) archive inside derivative products. To build templates or libraries that depend on PrimeTween, use the NPM installation method instead.
+- Distribute, resell, or claim PrimeTween's ownership even if modified.
+- Resell PrimeTween by itself or as part of another library or asset pack.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**In short**: you can use PrimeTween in your Unity projects, including commercial ones, but you can’t repackage or resell PrimeTween itself.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Copyright: Kyrylo Kuzyk 2023
